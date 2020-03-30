@@ -4,7 +4,7 @@ This tool is combained from
 + Crackinsta Tool
 
 # Installation steps in Termux & Kali linux
-Check Link : http://jtechcode.blogspot.com/2020/01/instagram-password-hacking-using-termux.html
+Check Link :http://www.cyberworld.tk/
 
 # Requirements 
 python3
